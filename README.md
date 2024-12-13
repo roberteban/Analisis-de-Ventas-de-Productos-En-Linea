@@ -10,7 +10,7 @@ Este proyecto analiza datos de ventas de productos en línea y proporciona infor
 3. **¿Cuáles son los 3 productos con la mayor cantidad de unidades vendidas durante todo el periodo?**
 ![Respuesta3](images/Respuesta3.PNG)
 4. **En julio, ¿cuántas unidades de auriculares inalámbricos se vendieron y qué porcentaje representaron del total de ventas en ese mes?**
-![Respuesta5_1](images/Respuesta5_1.PNG)
+![Respuesta4](images/Respuesta4.PNG)
 5. **¿Cómo estuvieron compuestas las ventas de productos de belleza y cuidado personal en julio y en todo el periodo analizado?**
 ![Respuesta5_1](images/Respuesta5_1.PNG)
 ![Respuesta5_2](images/Respuesta5_2.PNG)
