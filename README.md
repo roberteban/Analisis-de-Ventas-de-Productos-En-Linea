@@ -5,6 +5,7 @@ Este proyecto analiza datos de ventas de productos en línea y proporciona infor
 ## Preguntas respondidas:
 1. **¿Cuál fue el mes con la mayor y menor cantidad de ventas en unidades de productos?**
 ![Respuesta1](images/Respuesta1.png)
+![Respuesta1](Respuesta1.png)
 3. **¿Cuál fue el mes con la mayor y menor facturación?**
 4. **¿Cuáles son los 3 productos con la mayor cantidad de unidades vendidas durante todo el periodo?**
 5. **En julio, ¿cuántas unidades de auriculares inalámbricos se vendieron y qué porcentaje representaron del total de ventas en ese mes?**
